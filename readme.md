@@ -1,6 +1,12 @@
-## 本分支支持的后端
- - [修改版V2bX](https://github.com/wyx2685/V2bX)
+## 安装
 
+    git clone https://github.com/v2board/v2board.git ./
+
+    sh init.sh
+
+## 更新
+
+    sh update.sh
 
 ## 原版迁移步骤
 
