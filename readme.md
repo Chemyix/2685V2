@@ -27,3 +27,11 @@
     php artisan horizon:terminate
 
 最后进入后台重新保存主题： 主题配置-选择default主题-主题设置-确定保存
+
+## 定时任务Cron
+
+    php /www/wwwroot/yourdomain/artisan schedule:run
+
+## 队列服务
+
+    php artisan horizon
