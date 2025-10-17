@@ -1,3 +1,5 @@
+> 代码fork来源： wyx2685
+
 ## 安装
 
     git clone https://github.com/v2board/v2board.git ./
@@ -25,4 +27,3 @@
     php artisan horizon:terminate
 
 最后进入后台重新保存主题： 主题配置-选择default主题-主题设置-确定保存
-
